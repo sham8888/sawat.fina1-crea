@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261211792861",
+    "project_id": "sawat-b8de5",
+    "storage_bucket": "sawat-b8de5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261211792861:android:63dc8d577e0527a7090234",
+        "android_client_info": {
+          "package_name": "sawat.com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm6UgXbd46XmrR3QBTzUgGiFkO-x2RZJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
